@@ -1,0 +1,2 @@
+functions that runs trivy on docker image and outputs report to given path 
+
